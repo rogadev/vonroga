@@ -4,4 +4,4 @@ I run a small exterior cleaning company in Victoria, British Columbia, Canada. I
 
 I'll be graduating in 2022. I'll be looking for a full-time career in web development and also planto develop a few of my own small side projects. If you're looking for developer who knows business, feel free to drop me a line.
 
-e: ryan@mossaway.ca
+e: ryanroga@gmail.com
