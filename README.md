@@ -1,7 +1,5 @@
-I'm Ryan Roga. Student of Web and Mobile Application Development at North Island College. I'm also learning Vue.js and React.js on my own time, and developing several small passion projects for my own business.
+I'm Ryan Roga. Aspiring junior web developer, working on a diploma in Web and Mobile Application Development at VIU (Vancouver Island University). I'm starting year 2 this fall (2021). This summer I spent most of my time learning Vue, React, Node, and Express. I've also been working on a few small side projects.
 
-I run a small exterior cleaning company in Victoria, British Columbia, Canada. I also run a second smaller window cleaning company in Courtenay, British Columbia, Canada. I've already integrated a few small projects that I developed into my operational work flow.
+Four years ago I started my own small business here on Vancouver Island. We currently have 2 locations and a small but amazing crew. In 2019 we earned the Torch Award and were nominated again for 2020. I believe my purpose in life is making things better and I am passionate about being the best at what I do.
 
-I'll be graduating in 2022. I'll be looking for a full-time career in web development and also planto develop a few of my own small side projects. If you're looking for developer who knows business, feel free to drop me a line.
-
-e: ryanroga@gmail.com
+My business (and perhaps the global pandemic) ultimately brought me back to software development. The tools I was using to drive my business were not up to speed with what I wanted to accomplish, so I went online and started building my own tools. When the pandemic hit, our business took a hit in turn. I decided that I would make use of a little extra free time and really dive all the way in and learn the skills I was eagerly picking up as I went. I enrolled to NIC full-time while also managing my business full time. I landed a 3.5GPA and upgraded to VIU for year 2. I'm looing forward to writing the rest of this story next spring.
