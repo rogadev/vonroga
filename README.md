@@ -1,4 +1,4 @@
-I'm Ryan Roga. Aspiring junior web developer, working on a diploma in Web and Mobile Application Development at VIU (Vancouver Island University). I'm starting year 2 this fall (2021). This summer I spent most of my time learning Vue, React, Node, and Express. I've also been working on a few small side projects.
+I'm Ryan Roga. Aspiring junior web developer, working on a diploma in Web and Mobile Application Development at VIU (Vancouver Island University). I'm starting year 2 this fall (2021). This summer I spent most of my time learning Vue, React, Node, and Express. I've also been working on a few small side projects for my business.
 
 Four years ago I started my own small business here on Vancouver Island. We currently have 2 locations and a small but amazing crew. In 2019 we earned the Torch Award and were nominated again for 2020. I believe my purpose in life is making things better and I am passionate about being the best at what I do.
 
