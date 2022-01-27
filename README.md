@@ -1,6 +1,8 @@
 ## About Ryan
 Fullstack JavaScript developer who loves working with Node, Express, Vue, Svelte, and more. On my journey I've developed a [simple proxy server](https://github.com/vonroga/metaweather-proxy), full stack task-based dispatching web app, [window cleaning quote tool](https://nicdgl113.github.io/course-project-vonroga/), customer-journey centric CRM tool, and more.
 
+Looking for summer coop in 2022. Looking for regular part-time remote or Vancouver Island local work. If you have a position you think would be a good fit, please feel free to get in touch (contact details below).
+
 ## My Story
 A few years before the global pandemic I started a small exterior cleaning business. I built it from the ground up, heavily leveraging my skills in web development to grow it into what it is today. Somehere along the path I went deep down the rabbit hole of creating automated backend services to assist my workflow and enhance the customer journey.
 
