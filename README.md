@@ -4,7 +4,7 @@ I'm a JavaScript developer who loves working with Node, Express, Vue, Svelte, an
 
 ## My Story
 
-A few years before the global pandemic, I started a small exterior cleaning business. I built it from the ground up, heavily leveraging my skills in web development to grow it into what it is today. Somewhere along the path, I went deep down the rabbit hole of creating automated backend services to assist my workflow and enhance the customer journey.
+Several years before the global pandemic began, I started my exterior cleaning business in Victoria, BC - [MossAway](https://www.mossaway.ca). I built it from the ground up, heavily leveraging my skills in web development to grow it into what it is today. Somewhere along the path, I went deep down the rabbit hole of creating automated backend services to assist my workflow and enhance the customer journey.
 
 When the pandemic hit, my business took a hit with it. Once the Canadian government rolled out CERB we were unable to keep or hire a single employee and our business ground to a halt. I made the decision to pivot, both my business and my own trajectory, and started getting deeper into web development, SaaS, and business automation. I moved up island to enhance my skills through university and developed a [window cleaning quote tool](https://nicdgl113.github.io/course-project-vonroga/) and other micro SaaS products for my business. [window cleaning quote tool]
 
